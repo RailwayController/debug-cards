@@ -3,9 +3,9 @@ SPDX-FileCopyrightText: 2022 Sidings Media <contact@sidingsmedia.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Railway Controller
+# Railway Controller - Debug boards
 
-Template repository
+Boards for use with development and debugging of the system
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to

@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 4a685f9f-a465-4654-8955-e17e9ae0d9e4)
+
+  (paper "A4")
+
+  (title_block
+    (title "Power Debug Card")
+    (company "Sidings Media")
+    (comment 1 "Licence: CERN-OHL-P-2.0 or any later version")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
